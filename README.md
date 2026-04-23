@@ -39,15 +39,6 @@ Currently working in a Bioinformatics project of comparative analysis of metabol
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-##  Estatísticas
-
-<div style="text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=tiago-rods&show_icons=true&theme=dark&hide_border=true" alt="Estatísticas do GitHub" style="width: 60%; margin: 1%;" />
-</div>
-<div style="text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-rods&layout=compact&theme=dark&hide_border=true" alt="Linguagens mais usadas" style="width: 60%; margin: 1%;"/>
-</div>
-
 # Redes Sociais
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tiago.rods/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-alves-rodrigues-810507380/)
