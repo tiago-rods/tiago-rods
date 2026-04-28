@@ -28,6 +28,7 @@ Currently working in a Bioinformatics project of comparative analysis of metabol
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Typst](https://img.shields.io/badge/Typst-%230F172A?style=for-the-badge&logo=typst&logoColor=white)
 
 ### Ferramentas
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
