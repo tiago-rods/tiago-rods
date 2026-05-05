@@ -51,3 +51,9 @@ Currently working in a Bioinformatics project of comparative analysis of metabol
 # Redes Sociais (Socials)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tiago.rods/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-alves-rodrigues-810507380/)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tiago-rods/tiago-rods/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tiago-rods/tiago-rods/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/tiago-rods/tiago-rods/output/snake.svg">
+</picture>
