@@ -1,8 +1,9 @@
 # Olá 
 Meu nome é Tiago Rodrigues
-Área de atuação e pesquisa atual
+Baseado atualmente em Campinas, SP
+
+Minha área de atuação e pesquisa atual
 - Pesquisa em Bionformática e metabolômica
-- Moro atualmente em Campinas, SP
 
 My name is Tiago Rodrigues
 Current field of research
