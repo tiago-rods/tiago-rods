@@ -1,15 +1,13 @@
 # Olá 
 Meu nome é Tiago Rodrigues
 
-Baseado atualmente em Campinas, SP
-
 Minha área de atuação e pesquisa atual
 - Pesquisa em Bionformática e metabolômica
 
 My name is Tiago Rodrigues
-Current field of research
+
+My current field of research
 - Bioinformatics and metabolomics
-- Currently based in Campinas SP (Brazil) 
 
 **Idiomas (languages):**
 - 🇧🇷 Português (Nativo)
@@ -46,7 +44,7 @@ Currently working in a Bioinformatics project of comparative analysis of metabol
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=dark-green)
 ![ROS2](https://img.shields.io/badge/ROS2-CE1747?style=for-the-badge&logo=ros&logoColor=white)
-![Vim](https://img.shields.io/badge/VIM-231F20?style=for-the-badge&logo=vim&logoColor=green)
+![NeoVim](https://img.shields.io/badge/NEOVIM-171717?style=for-the-badge&logo=neovim&logoColor=4986b2)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 
