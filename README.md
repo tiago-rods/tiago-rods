@@ -83,7 +83,7 @@
 <!-- Troque pelos seus repositórios -->
 | Project | Description |
 |---|---|
-| [**REPO_1**]([https://github.com/tiago-rods/REPO_1](https://github.com/tiago-rods/atom-simulation.git)) |  |
+| [**Atom-sim**](https://github.com/tiago-rods/atom-simulation.git) | Orbital simulation of a Hydrogen atom |
 | [**REPO_2**](https://github.com/tiago-rods/REPO_2) | Short description of the project |
 
 ---
