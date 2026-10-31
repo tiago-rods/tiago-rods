@@ -83,8 +83,8 @@
 <!-- Troque pelos seus repositórios -->
 | Project | Description |
 |---|---|
-| [**Atom-sim**](https://github.com/tiago-rods/atom-simulation.git) | Orbital simulation of a Hydrogen atom |
-| [**REPO_2**](https://github.com/tiago-rods/REPO_2) | Short description of the project |
+| [**Atom-sim**](https://github.com/tiago-rods/atom-simulation.git) | Interactive 3d orbital simulation of a Hydrogen atom |
+| [**¹H NMR-data-analysis**](https://github.com/tiago-rods/NMR-data-analysis.git) | standardization and statistical analysis of NMR ¹H metabolomics spectroscopy data |
 
 ---
 
