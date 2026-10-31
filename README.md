@@ -1,4 +1,4 @@
-# Olá 
+ # Olá 
 Meu nome é Tiago Rodrigues
 
 Minha área de atuação e pesquisa atual
@@ -23,8 +23,7 @@ Undergraduate researcher at CNPEM in the national laboratory of biosciences (LNB
 Currently working in a Bioinformatics project of comparative analysis of metabolomic profiling software in the NMR ¹H spectrum 
 
 ## Conhecimento em (Knowledge in):
-### Linguagens (Languages)
-### Linguagens (Languages)
+### Linguagens de Programação (Programming Languages)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
