@@ -1,4 +1,4 @@
-
+# Hi there
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-alves-rodrigues-810507380/)
@@ -83,8 +83,10 @@
 <!-- Troque pelos seus repositórios -->
 | Project | Description |
 |---|---|
+| [**MTrack**](https://github.com/cnpem/mtrack.git) | Automated behavioral and statistical analysis for mice using computer vision |
 | [**Atom-sim**](https://github.com/tiago-rods/atom-simulation.git) | Interactive 3d orbital simulation of a Hydrogen atom |
 | [**¹H NMR-data-analysis**](https://github.com/tiago-rods/NMR-data-analysis.git) | standardization and statistical analysis of NMR ¹H metabolomics spectroscopy data |
+| [**Genetic traveling salesman**](https://github.com/tiago-rods/Genetico-caixeiro-viajante.git) | Genetic algorithm for solving traveling salesman problem |
 
 ---
 
