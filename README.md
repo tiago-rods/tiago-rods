@@ -83,7 +83,7 @@
 <!-- Troque pelos seus repositórios -->
 | Project | Description |
 |---|---|
-| [**REPO_1**](https://github.com/tiago-rods/REPO_1) | Short description of the project |
+| [**REPO_1**]([https://github.com/tiago-rods/REPO_1](https://github.com/tiago-rods/atom-simulation.git)) |  |
 | [**REPO_2**](https://github.com/tiago-rods/REPO_2) | Short description of the project |
 
 ---
