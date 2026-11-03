@@ -12,7 +12,7 @@
 
 -  Computer Engineering student at **PUC Campinas**
 -  Undergraduate researcher at **CNPEM**, Brazilian Biosciences National Laboratory (**LNBio**)
--  Currently developing in:
+-  Currently developing:
   1. Automated behavioral and statistical analysis for mice using computer vision
   2. MIPS architecture DataPath
   3. Genetic algorithm for solving traveling salesman problem
