@@ -98,6 +98,10 @@
 
 <br>
 
+<div align="center" style="display: inline_block">
+  <img height="180em" src="https://github-readme-stats-rho-lyart-46.vercel.app/api/top-langs/?username=tiago-rods&layout=compact&langs_count=8&theme=dark" />
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tiago-rods/tiago-rods/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tiago-rods/tiago-rods/output/snake.svg">
