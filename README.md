@@ -16,6 +16,7 @@
   1. Automated behavioral and statistical analysis for mice using computer vision
   2. MIPS architecture DataPath
   3. Genetic algorithm for solving traveling salesman problem
+  4. Computer vision pipeline to automate barnes maze analysis 
    
 -  Languages: 🇧🇷 Portuguese (native) · 🇺🇸 English (fluent)
 
@@ -29,6 +30,7 @@
   1. Automatização de análise estatistica e comportamental para camundongos utilizando visão computacional
   2. DataPath em arquitetura MIPS
   3. Algoritmo genético para resolver problema do caixeiro viajante
+  4. Pipeline de visão computacional para automatizar a análise de barnes maze
 -  Idiomas: 🇧🇷 Português (nativo) · 🇺🇸 Inglês (fluente)
 
 </details>
